@@ -1,0 +1,113 @@
+[06/02/2024-01:16:20][INFO][classes\core\Application] Event: Application started
+[06/02/2024-01:16:20][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"8da2bc48e3dc2688687e31d0935013d6fa8edcaa","v":"5.131","object":{"message":{"date":1707171380,"from_id":715883939,"id":198,"out":0,"version":10000491,"attachments":[],"conversation_message_id":198,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-01:16:20][INFO][classes\core\Application] Event: Output buffer is clear: 
+[06/02/2024-01:16:20][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-01:16:20][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-01:16:30][INFO][classes\core\Application] Event: Application started
+[06/02/2024-01:16:30][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"8da2bc48e3dc2688687e31d0935013d6fa8edcaa","v":"5.131","object":{"message":{"date":1707171380,"from_id":715883939,"id":198,"out":0,"version":10000491,"attachments":[],"conversation_message_id":198,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-01:16:30][INFO][classes\core\Application] Event: Output buffer is clear: 
+[06/02/2024-01:16:30][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-01:16:30][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-01:18:42][INFO][classes\core\Application] Event: Application started
+[06/02/2024-01:18:42][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"4de40f6845860d1ed8b1da2d05f31cdae67d4244","v":"5.131","object":{"message":{"date":1707171522,"from_id":715883939,"id":199,"out":0,"version":10000492,"attachments":[],"conversation_message_id":199,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-01:18:42][INFO][classes\core\Application] Event: Output buffer is clear: 
+[06/02/2024-01:18:42][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-01:18:42][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-01:18:52][INFO][classes\core\Application] Event: Application started
+[06/02/2024-01:18:52][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"4de40f6845860d1ed8b1da2d05f31cdae67d4244","v":"5.131","object":{"message":{"date":1707171522,"from_id":715883939,"id":199,"out":0,"version":10000492,"attachments":[],"conversation_message_id":199,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-01:18:52][INFO][classes\core\Application] Event: Output buffer is clear: 
+[06/02/2024-01:18:52][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-01:18:52][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-01:19:30][INFO][classes\core\Application] Event: Application started
+[06/02/2024-01:19:30][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"8da2bc48e3dc2688687e31d0935013d6fa8edcaa","v":"5.131","object":{"message":{"date":1707171380,"from_id":715883939,"id":198,"out":0,"version":10000491,"attachments":[],"conversation_message_id":198,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-01:19:30][INFO][classes\core\Application] Event: Output buffer is clear: 
+[06/02/2024-01:19:30][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-01:19:30][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-01:19:31][INFO][classes\core\Application] Event: Application started
+[06/02/2024-01:19:31][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"b5161217a5f43a5f1d2541029263bc6b5e8c8aa3","v":"5.131","object":{"message":{"date":1707171571,"from_id":715883939,"id":200,"out":0,"version":10000493,"attachments":[],"conversation_message_id":200,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-01:19:31][INFO][classes\core\Application] Event: Output buffer is clear: 
+[06/02/2024-01:19:31][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-01:19:31][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-01:21:52][INFO][classes\core\Application] Event: Application started
+[06/02/2024-01:21:52][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"4de40f6845860d1ed8b1da2d05f31cdae67d4244","v":"5.131","object":{"message":{"date":1707171522,"from_id":715883939,"id":199,"out":0,"version":10000492,"attachments":[],"conversation_message_id":199,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-01:21:52][INFO][classes\core\Application] Event: Output buffer is clear: 
+[06/02/2024-01:21:52][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-01:21:52][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-01:22:52][INFO][classes\core\Application] Event: Application started
+[06/02/2024-01:22:52][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"56b37dfba4a5eaef5554f51454bd6a157015e1c6","v":"5.131","object":{"message":{"date":1707171772,"from_id":715883939,"id":201,"out":0,"version":10000494,"attachments":[],"conversation_message_id":201,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-01:22:52][INFO][classes\core\Application] Event: Output buffer is clear: 
+[06/02/2024-01:22:52][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-01:22:52][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-01:25:19][INFO][classes\core\Application] Event: Application started
+[06/02/2024-01:25:19][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"bef39274debf6e303e766925d9b8b18a4f0506aa","v":"5.131","object":{"message":{"date":1707171919,"from_id":715883939,"id":202,"out":0,"version":10000495,"attachments":[],"conversation_message_id":202,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-01:25:19][INFO][classes\core\Application] Event: Output buffer is clear: , Error: <br />
+<b>Warning</b>:  Attempt to read property "stage" on null in <b>/var/www/u2445536/data/www/letsplaytogether.ru/classes/routing/DialogDispatcher.php</b> on line <b>184</b><br />
+
+[06/02/2024-01:25:19][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-01:25:19][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-01:27:07][INFO][classes\core\Application] Event: Application started
+[06/02/2024-01:27:07][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"af54297e468327a7c63a9883058098232a927237","v":"5.131","object":{"message":{"date":1707172027,"from_id":715883939,"id":203,"out":0,"version":10000496,"attachments":[],"conversation_message_id":203,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-01:27:07][INFO][classes\core\Application] Event: Output buffer is clear: , Error: <br />
+<b>Warning</b>:  Attempt to read property "name" on string in <b>/var/www/u2445536/data/www/letsplaytogether.ru/classes/routing/DialogDispatcher.php</b> on line <b>194</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "name" on string in <b>/var/www/u2445536/data/www/letsplaytogether.ru/classes/routing/DialogDispatcher.php</b> on line <b>197</b><br />
+
+[06/02/2024-01:27:07][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-01:27:07][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-01:27:18][INFO][classes\core\Application] Event: Application started
+[06/02/2024-01:27:18][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"af54297e468327a7c63a9883058098232a927237","v":"5.131","object":{"message":{"date":1707172027,"from_id":715883939,"id":203,"out":0,"version":10000496,"attachments":[],"conversation_message_id":203,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-01:27:18][INFO][classes\core\Application] Event: Output buffer is clear: , Error: <br />
+<b>Warning</b>:  Attempt to read property "name" on string in <b>/var/www/u2445536/data/www/letsplaytogether.ru/classes/routing/DialogDispatcher.php</b> on line <b>194</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "name" on string in <b>/var/www/u2445536/data/www/letsplaytogether.ru/classes/routing/DialogDispatcher.php</b> on line <b>197</b><br />
+
+[06/02/2024-01:27:18][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-01:27:18][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-01:31:39][INFO][classes\core\Application] Event: Application started
+[06/02/2024-01:31:39][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"4ab6310472d14ce959de45f0909f5cec31e4b877","v":"5.131","object":{"message":{"date":1707172299,"from_id":715883939,"id":204,"out":0,"version":10000497,"attachments":[],"conversation_message_id":204,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-01:31:39][INFO][classes\core\Application] Event: Output buffer is clear: , Error: <br />
+<b>Warning</b>:  Attempt to read property "stage" on string in <b>/var/www/u2445536/data/www/letsplaytogether.ru/classes/routing/DialogDispatcher.php</b> on line <b>194</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "stage" on string in <b>/var/www/u2445536/data/www/letsplaytogether.ru/classes/routing/DialogDispatcher.php</b> on line <b>197</b><br />
+
+[06/02/2024-01:31:39][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-01:31:39][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-01:31:49][INFO][classes\core\Application] Event: Application started
+[06/02/2024-01:31:49][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"4ab6310472d14ce959de45f0909f5cec31e4b877","v":"5.131","object":{"message":{"date":1707172299,"from_id":715883939,"id":204,"out":0,"version":10000497,"attachments":[],"conversation_message_id":204,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-01:31:49][INFO][classes\core\Application] Event: Output buffer is clear: , Error: <br />
+<b>Warning</b>:  Attempt to read property "stage" on string in <b>/var/www/u2445536/data/www/letsplaytogether.ru/classes/routing/DialogDispatcher.php</b> on line <b>194</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "stage" on string in <b>/var/www/u2445536/data/www/letsplaytogether.ru/classes/routing/DialogDispatcher.php</b> on line <b>197</b><br />
+
+[06/02/2024-01:31:49][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-01:31:49][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-01:32:16][INFO][classes\core\Application] Event: Application started
+[06/02/2024-01:32:16][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"bfb5b98f9ee9faf6eab2ef47288f0189025af5c7","v":"5.131","object":{"message":{"date":1707172336,"from_id":715883939,"id":205,"out":0,"version":10000498,"attachments":[],"conversation_message_id":205,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-01:32:16][INFO][classes\core\Application] Event: Output buffer is clear: 
+[06/02/2024-01:32:16][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-01:32:16][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-01:34:49][INFO][classes\core\Application] Event: Application started
+[06/02/2024-01:34:49][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"4ab6310472d14ce959de45f0909f5cec31e4b877","v":"5.131","object":{"message":{"date":1707172299,"from_id":715883939,"id":204,"out":0,"version":10000497,"attachments":[],"conversation_message_id":204,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-01:34:49][INFO][classes\core\Application] Event: Output buffer is clear: 
+[06/02/2024-01:34:49][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-01:34:49][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-01:40:18][INFO][classes\core\Application] Event: Application started
+[06/02/2024-01:40:18][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"af54297e468327a7c63a9883058098232a927237","v":"5.131","object":{"message":{"date":1707172027,"from_id":715883939,"id":203,"out":0,"version":10000496,"attachments":[],"conversation_message_id":203,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-01:40:18][INFO][classes\core\Application] Event: Output buffer is clear: 
+[06/02/2024-01:40:18][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-01:40:18][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-22:20:39][INFO][classes\core\Application] Event: Application started
+[06/02/2024-22:20:39][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"8ce36f739b4911f78b8e6941d6f62ac64ba9bb61","v":"5.131","object":{"message":{"date":1707247238,"from_id":715883939,"id":209,"out":0,"version":10000511,"attachments":[],"conversation_message_id":209,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-22:20:39][INFO][classes\core\Application] Event: Output buffer is clear: 
+[06/02/2024-22:20:39][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-22:20:39][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-22:22:29][INFO][classes\core\Application] Event: Application started
+[06/02/2024-22:22:29][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"684a6c297a149e1ea85f68ce0b5491e9461e1105","v":"5.131","object":{"message":{"date":1707247349,"from_id":715883939,"id":210,"out":0,"version":10000512,"attachments":[],"conversation_message_id":210,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-22:22:29][INFO][classes\core\Application] Event: Output buffer is clear: 
+[06/02/2024-22:22:29][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-22:22:29][INFO][classes\core\Application] Event: ===========================================================
+[06/02/2024-22:22:39][INFO][classes\core\Application] Event: Application started
+[06/02/2024-22:22:39][INFO][classes\core\Application] Event: Incoming data: {"group_id":224340744,"type":"message_new","event_id":"684a6c297a149e1ea85f68ce0b5491e9461e1105","v":"5.131","object":{"message":{"date":1707247349,"from_id":715883939,"id":210,"out":0,"version":10000512,"attachments":[],"conversation_message_id":210,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}}}
+[06/02/2024-22:22:39][INFO][classes\core\Application] Event: Output buffer is clear: 
+[06/02/2024-22:22:39][INFO][classes\core\Application] Event: OK response send. Application is over.
+[06/02/2024-22:22:39][INFO][classes\core\Application] Event: ===========================================================

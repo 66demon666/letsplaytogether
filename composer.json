@@ -1,0 +1,6 @@
+{
+    "require": {
+        "vkcom/vk-php-sdk": "^5.131",
+      "ext-pdo": "*"
+    }
+}

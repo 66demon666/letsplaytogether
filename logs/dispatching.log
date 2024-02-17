@@ -1,0 +1,59 @@
+[06/02/2024-01:16:20][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-01:16:20][INFO][classes\routing\DialogDispatcher] Event: User 715883939 was add to database
+[06/02/2024-01:16:30][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-01:16:30][DEBUG][classes\routing\DialogDispatcher] Event: User VK ID: 715883939
+[06/02/2024-01:18:42][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-01:18:42][DEBUG][classes\routing\DialogDispatcher] Event: User VK ID: 715883939
+[06/02/2024-01:18:42][FATAL][classes\routing\DialogDispatcher] Event: User dialogue stage not found
+[06/02/2024-01:18:52][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-01:18:52][DEBUG][classes\routing\DialogDispatcher] Event: User VK ID: 715883939
+[06/02/2024-01:18:52][FATAL][classes\routing\DialogDispatcher] Event: User dialogue stage not found
+[06/02/2024-01:19:30][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-01:19:30][DEBUG][classes\routing\DialogDispatcher] Event: User VK ID: 715883939
+[06/02/2024-01:19:30][FATAL][classes\routing\DialogDispatcher] Event: User dialogue stage not found
+[06/02/2024-01:19:31][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-01:19:31][DEBUG][classes\routing\DialogDispatcher] Event: User VK ID: 715883939
+[06/02/2024-01:19:31][FATAL][classes\routing\DialogDispatcher] Event: User dialogue stage not found
+[06/02/2024-01:21:52][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-01:21:52][DEBUG][classes\routing\DialogDispatcher] Event: User VK ID: 715883939
+[06/02/2024-01:21:52][FATAL][classes\routing\DialogDispatcher] Event: User dialogue stage not found
+[06/02/2024-01:22:52][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-01:22:52][DEBUG][classes\routing\DialogDispatcher] Event: User VK ID: 715883939
+[06/02/2024-01:22:52][FATAL][classes\routing\DialogDispatcher] Event: User dialogue stage not found
+[06/02/2024-01:25:19][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-01:25:19][DEBUG][classes\routing\DialogDispatcher] Event: User VK ID: 715883939
+[06/02/2024-01:25:19][FATAL][classes\routing\DialogDispatcher] Event: User dialogue stage not found
+[06/02/2024-01:27:07][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-01:27:07][DEBUG][classes\routing\DialogDispatcher] Event: User VK ID: 715883939
+[06/02/2024-01:27:07][DEBUG][classes\routing\DialogDispatcher] Event: User dialogue stage: 
+[06/02/2024-01:27:18][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-01:27:18][DEBUG][classes\routing\DialogDispatcher] Event: User VK ID: 715883939
+[06/02/2024-01:27:18][DEBUG][classes\routing\DialogDispatcher] Event: User dialogue stage: 
+[06/02/2024-01:31:39][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-01:31:39][DEBUG][classes\routing\DialogDispatcher] Event: User VK ID: 715883939
+[06/02/2024-01:31:39][DEBUG][classes\routing\DialogDispatcher] Event: User dialogue stage: 
+[06/02/2024-01:31:49][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-01:31:49][DEBUG][classes\routing\DialogDispatcher] Event: User VK ID: 715883939
+[06/02/2024-01:31:49][DEBUG][classes\routing\DialogDispatcher] Event: User dialogue stage: 
+[06/02/2024-01:32:16][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-01:32:16][DEBUG][classes\routing\DialogDispatcher] Event: User VK ID: 715883939
+[06/02/2024-01:32:16][DEBUG][classes\routing\DialogDispatcher] Event: User dialogue stage: start
+[06/02/2024-01:32:16][DEBUG][classes\routing\DialogDispatcher] Event: User dialogue object: {"stage":"start","pattern":"~^Начать$~","action":{"controller":"controllers\\DialogController","method":"search_rooms"},"forks":[{"stage":"greetings","pattern":"~^Привет, я (.*)$~","action":{"controller":"controllers\\DialogController","method":"start"}},{"stage":"search_rooms","pattern":"~^Искать комнаты$~","action":{"controller":"controllers\\DialogController","method":"search_rooms"},"forks":[{"stage":"stop_search_rooms","pattern":"~^Стоп поиск$~","action":{"controller":"controllers\\DialogController","method":"stopSearchRooms"}},{"stage":"search_continue","pattern":"~^Продолжить поиск$~","action":{"controller":"controllers\\DialogController","method":"searchContinue"}}]},{"stage":"create_room","pattern":"~^Создать комнату$~","action":{"controller":"controllers\\DialogController","method":"create_room"}}]}
+[06/02/2024-01:32:16][DEBUG][classes\routing\DialogDispatcher] Event: PARAMS: ["Саша"]
+[06/02/2024-01:32:16][DEBUG][classes\routing\DialogDispatcher] Event: Call controller method. Controller controllers\DialogController; Method: start; Params: [{"message":{"date":1707172336,"from_id":715883939,"id":205,"out":0,"version":10000498,"attachments":[],"conversation_message_id":205,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}},"Саша"]
+[06/02/2024-01:34:49][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-01:34:49][DEBUG][classes\routing\DialogDispatcher] Event: User VK ID: 715883939
+[06/02/2024-01:34:49][DEBUG][classes\routing\DialogDispatcher] Event: User dialogue stage: start
+[06/02/2024-01:34:49][DEBUG][classes\routing\DialogDispatcher] Event: User dialogue object: {"stage":"start","pattern":"~^Начать$~","action":{"controller":"controllers\\DialogController","method":"search_rooms"},"forks":[{"stage":"greetings","pattern":"~^Привет, я (.*)$~","action":{"controller":"controllers\\DialogController","method":"start"}},{"stage":"search_rooms","pattern":"~^Искать комнаты$~","action":{"controller":"controllers\\DialogController","method":"search_rooms"},"forks":[{"stage":"stop_search_rooms","pattern":"~^Стоп поиск$~","action":{"controller":"controllers\\DialogController","method":"stopSearchRooms"}},{"stage":"search_continue","pattern":"~^Продолжить поиск$~","action":{"controller":"controllers\\DialogController","method":"searchContinue"}}]},{"stage":"create_room","pattern":"~^Создать комнату$~","action":{"controller":"controllers\\DialogController","method":"create_room"}}]}
+[06/02/2024-01:34:49][DEBUG][classes\routing\DialogDispatcher] Event: PARAMS: ["Саша"]
+[06/02/2024-01:34:49][DEBUG][classes\routing\DialogDispatcher] Event: Call controller method. Controller controllers\DialogController; Method: start; Params: [{"message":{"date":1707172299,"from_id":715883939,"id":204,"out":0,"version":10000497,"attachments":[],"conversation_message_id":204,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}},"Саша"]
+[06/02/2024-01:40:18][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-01:40:18][DEBUG][classes\routing\DialogDispatcher] Event: User VK ID: 715883939
+[06/02/2024-01:40:18][DEBUG][classes\routing\DialogDispatcher] Event: User dialogue stage: start
+[06/02/2024-01:40:18][DEBUG][classes\routing\DialogDispatcher] Event: User dialogue object: {"stage":"start","pattern":"~^Начать$~","action":{"controller":"controllers\\DialogController","method":"search_rooms"},"forks":[{"stage":"greetings","pattern":"~^Привет, я (.*)$~","action":{"controller":"controllers\\DialogController","method":"start"}},{"stage":"search_rooms","pattern":"~^Искать комнаты$~","action":{"controller":"controllers\\DialogController","method":"search_rooms"},"forks":[{"stage":"stop_search_rooms","pattern":"~^Стоп поиск$~","action":{"controller":"controllers\\DialogController","method":"stopSearchRooms"}},{"stage":"search_continue","pattern":"~^Продолжить поиск$~","action":{"controller":"controllers\\DialogController","method":"searchContinue"}}]},{"stage":"create_room","pattern":"~^Создать комнату$~","action":{"controller":"controllers\\DialogController","method":"create_room"}}]}
+[06/02/2024-01:40:18][DEBUG][classes\routing\DialogDispatcher] Event: PARAMS: ["Саша"]
+[06/02/2024-01:40:18][DEBUG][classes\routing\DialogDispatcher] Event: Call controller method. Controller controllers\DialogController; Method: start; Params: [{"message":{"date":1707172027,"from_id":715883939,"id":203,"out":0,"version":10000496,"attachments":[],"conversation_message_id":203,"fwd_messages":[],"important":false,"is_hidden":false,"peer_id":715883939,"random_id":0,"text":"Привет, я Саша"},"client_info":{"button_actions":["text","vkpay","open_app","location","open_link","callback","intent_subscribe","intent_unsubscribe"],"keyboard":true,"inline_keyboard":true,"carousel":true,"lang_id":0}},"Саша"]
+[06/02/2024-22:20:39][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-22:20:39][INFO][classes\routing\DialogDispatcher] Event: User 715883939 was add to database
+[06/02/2024-22:22:29][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
+[06/02/2024-22:22:39][INFO][classes\routing\DialogDispatcher] Event: Start message dispatch: Привет, я Саша
